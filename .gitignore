@@ -1,0 +1,5 @@
+# dotenv environment variables file
+.env
+
+#private key
+private-key.pem
